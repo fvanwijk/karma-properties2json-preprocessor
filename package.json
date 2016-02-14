@@ -1,6 +1,6 @@
 {
   "name": "karma-properties2json-preprocessor",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Preprocessor for converting .properties files into JSON files",
   "main": "lib/index.js",
   "repository": {
