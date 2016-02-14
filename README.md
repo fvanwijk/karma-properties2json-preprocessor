@@ -2,6 +2,9 @@
 
 Preprocessor for converting .properties files into JSON files.
 
+[![devDependency Status](https://david-dm.org/fvanwijk/karma-properties2json-preprocessor/dev-status.svg)](https://david-dm.org/fvanwijk/karma-properties2json-preprocessor#info=devDependencies)
+[![Dependency Status](https://david-dm.org/fvanwijk/karma-properties2json-preprocessor.svg)](https://david-dm.org/fvanwijk/mox)
+
 ## Usage
 
 `npm install --save-dev karma-properties2json-preprocessor`
